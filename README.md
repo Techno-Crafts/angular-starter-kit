@@ -5,8 +5,9 @@ Starter Kit for Angular 4
 ## Usage
 
 ```sh
-npm install -g typescript@2.3.4
-npm install @angular/cli@latest
+npm install -g typescript@2.5.2
+npm install -g @angular/cli@latest
+cd angular-starter-kit/
 npm install
 ng serve
 ```
@@ -14,6 +15,6 @@ ng serve
 ## packages used
 
 ```
-@angular/cli@1.2.6
-@angular/{core,http,forms,compiler,...}@^4.3.3
+@angular/cli@1.4.0
+@angular/{core,http,forms,compiler,...}@^4.4.0-RC.0
 ```

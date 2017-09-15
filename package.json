@@ -28,10 +28,10 @@
     "zone.js": "^0.8.17"
   },
   "devDependencies": {
-    "@angular/cli": "1.4.1",
+    "@angular/cli": "1.4.2",
     "@angular/compiler-cli": "^4.4.0-RC.0",
     "@angular/language-service": "^4.4.0-RC.0",
-    "@types/jasmine": "~2.5.54",
+    "@types/jasmine": "~2.6.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/jquery": "^3.2.12",
     "@types/lodash": "^4.14.74",

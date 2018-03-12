@@ -15,6 +15,6 @@ ng serve
 ## packages used
 
 ```
-@angular/cli@1.6.5
-@angular/{core,http,forms,compiler,...}@^5.2.1
+@angular/cli@1.7.3
+@angular/{core,http,forms,compiler,...}@^5.2.8
 ```
